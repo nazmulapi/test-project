@@ -41,7 +41,7 @@ export default function FancyLoginPage() {
             Welcome Back
           </h1>
           <p className="mt-2 text-xl text-gray-600">
-            We're so excited to see you again!
+            We&apos;re so excited to see you again!
           </p>
         </div>
       </div>
@@ -126,7 +126,7 @@ export default function FancyLoginPage() {
             </form>
           </div>
           <p className="mt-4 text-center text-sm text-gray-600">
-            Don't have an account?{" "}
+            Don&apos;t have an account?{" "}
             <Link
               href="#"
               className="font-medium text-indigo-600 hover:text-indigo-500 hover:cursor-pointer"
